@@ -1,0 +1,24 @@
+# Online voting
+- Purpose: To create a system that provides online voting for various identity combinations on campus.
+- System features: 
+  - Users:
+    - System Administrator
+      - To manage accounts and set permissions to create new poll threads for those accounts.
+    - Teachers
+    - Staff
+    - Students
+  - Voting:
+    - Add a new poll topic
+      - Voting topics and descriptions
+      - Start and end dates
+      - Voters can be identified (students, teachers, staff, or a combination) or voted by secret ballot.
+    - Modify the voting theme
+      - Can only be set by the person who originally set it.
+      - If the poll topic already has a voting record, only the following can be modified for objectivity: poll topic, start and end date, topic description, and indicator color.
+    - Delete poll topic
+      - Can only be done by the person who originally set it.
+      - Delete individual or entire polling events including associated databases and images. 
+    - Voting options can be displayed as images or music. 
+    - Voting results can be displayed as a statistical graph for analysis. 
+    - When voting by name, you need to be logged in to vote on the topic. 
+    - When setting up anonymous voting, you need to consider the case of vote spamming.
