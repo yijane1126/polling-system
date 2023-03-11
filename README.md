@@ -1,4 +1,4 @@
-# Online voting
+# Online polling system
 - Purpose: To create a system that provides online voting for various identity combinations on campus.
 - System features: 
   - Users:
